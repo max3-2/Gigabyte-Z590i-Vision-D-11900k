@@ -280,7 +280,7 @@
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
-				<string>Acidanthera plug-in manager</string>
+				<string>Acidanthera plug-in manager V1.6.7</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -298,7 +298,7 @@
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
-				<string>Emulates the SMC chip found on real macs, without this macOS will not boot.</string>
+				<string>Emulates the SMC V1.3.2</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -334,7 +334,7 @@
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
-				<string>Lilu plugin for managing both internal GPU and AMD GPUs</string>
+				<string>Lilu plugin GPU support V1.6.6</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -352,7 +352,7 @@
 				<key>BundlePath</key>
 				<string>RestrictEvents.kext</string>
 				<key>Comment</key>
-				<string>Suppress notifications</string>
+				<string>Suppress notifications V1.1.3</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
