@@ -24,17 +24,9 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Bridge for 6900XTXH</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-BR0-6900XT.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>USB Ports config for the Z590 Vision D (ATX version)</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>SSDT-USB-Ports-Z590-VisionD.aml</string>
 			</dict>
@@ -42,7 +34,7 @@
 				<key>Comment</key>
 				<string>USB Ports config for the Z590i Vision D (mini-ITX Version)</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-USB-Ports-Z590i-VisionD.aml</string>
 			</dict>
